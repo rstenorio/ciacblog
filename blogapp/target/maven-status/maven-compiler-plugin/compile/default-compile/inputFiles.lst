@@ -1,0 +1,17 @@
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/control/CommentStore.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/control/UserStore.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/PingResource.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/control/TagStore.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/control/PostStore.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/entity/BaseEntity.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/entity/Post.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/adapters/UserTypeAdapter.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/boundary/PostsResource.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/JAXRSConfiguration.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/entity/Tag.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/entity/Comment.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/boundary/UsersResource.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/ConstraintViolationExceptionMapper.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/boundary/CommentsResource.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/entity/User.java
+/home/tss/workspace/ALFONSO/tss22/blogapp/blogapp/src/main/java/it/tss/blogapp/adapters/PostTypeAdapter.java
